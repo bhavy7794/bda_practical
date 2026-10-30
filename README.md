@@ -1,0 +1,1 @@
+To Download Repo Click the green "CODE" button Download Zip File Extract & Open, For Non Code Practicals there is theory pdf provided & for Code Practicals they contain Input values & Theory inside comments 
